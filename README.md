@@ -1,5 +1,5 @@
 # Nodejs-buffer
-This repo is concerned with buffer module of Nodejs.
+This repo is concerned with buffer module in Nodejs.
 
 These are used to handle binary raw data.
     
